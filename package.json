@@ -1,0 +1,32 @@
+{
+  "author": "863183638",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "gulp": "~3.5.6",
+    "gulp-install": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-template": "~0.1.1",
+    "iniparser": "~1.0.5",
+    "inquirer": "~0.4.1",
+    "underscore": "^1.8.3"
+  },
+  "description": "A slush generator for node",
+  "devDependencies": {
+    "chai": "~1.8.0",
+    "mocha": "~1.14.0"
+  },
+  "directories": {},
+  "keywords": [
+    "slushgenerator",
+    "node",
+    "npm",
+    "module"
+  ],
+  "main": "slushfile.js",
+  "name": "slush-node",
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.0.1"
+}
